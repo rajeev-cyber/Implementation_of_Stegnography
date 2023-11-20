@@ -1,16 +1,44 @@
-# STEGANOGRAPHY
+# Steganography Implementation Project
 ![STEGANOGRAPHY](https://github.com/rajeev-cyber/Implementation_of_Stegnography/assets/136923593/70950259-49d9-453d-b3fa-61b74e4718bc)
 
 ## Project Overview
 
 The Implementation of Steganography project is a collaborative effort by three members to create an open-source website that supports various types of steganography, including image, audio, text, and video.
 
-## Key Features
+## Table of Contents
 
-- Support for image steganography
-- Support for audio steganography
-- Support for text steganography
-- Support for video steganography
+- [Introduction](#introduction)
+- [Technologies to be Used](#technologies-to-be-Used)
+- [Features](#features)
+- [Supported Steganography Types](#supported-steganography-types)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+Steganography is the practice of concealing information within other non-secret text or data. This project provides a user-friendly web interface to experiment with different steganography methods, including image, text, video, and audio steganography.
+
+## Technologies to be Used:
+
+**Programming Languages:**  Python, C Languages
+**Libraries:** Steno, pipenv, opencv
+**Development Tools:** Visual Studio Code, Notepad,Python IDLE
+**Version Control:** Git
+**Database (Optional):** MySQL
+
+## Features
+
+- User-friendly web interface
+- Support for multiple steganography techniques
+- Accessibility to image, text, video, and audio steganography
+- Open-source and customizable
+
+## Supported Steganography Types
+
+1. **Image Steganography**: Hide text or other images within an image.
+2. **Text Steganography**: Conceal text within other text, such as using whitespace or special characters.
+3. **Video Steganography**: Embed information within video files without compromising visual and auditory quality.
+4. **Audio Steganography**: Hide data within audio files without perceptible changes to the audio.
 
 ## Steps for Using Image Steganography
 
@@ -22,17 +50,17 @@ Here are the typical steps for using image steganography:
 5. Extract hidden data: Open the stego-image in a tool that can detect and extract the hidden binary data using the same algorithm.
 6. Convert extracted data to original form: Transform the extracted binary data back to the original text, image, audio or video file format.
 
-## Getting Started
+## Flowchart
 
-To get started with the project, follow these steps:
+![WhatsApp Image 2023-11-04 at 00 02 06](https://github.com/rajeev-cyber/Implementation_of_Stegnography/assets/136923593/36fb8059-ba83-4f15-be79-bfa255f906e7)
 
-1. Clone the repository.
-2. Install the necessary dependencies.
-3. [Add any other setup instructions here]
+## Usage
 
-## Contributing
+Visit the [website link] to access the Steganography Implementation Project.<br>
+Choose the steganography type you want to experiment with.
 
-We welcome contributions! If you would like to contribute to the project, please follow the guidelines in [CONTRIBUTING.md](link-to-contributing-guide).
+Follow the on-screen instructions to hide or extract information.
+
 
 ## License
 
