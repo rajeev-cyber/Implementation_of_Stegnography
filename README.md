@@ -1,4 +1,4 @@
-# Steganography Implementation Project
+# Implementation Of Steganography
 ![STEGANOGRAPHY](https://github.com/rajeev-cyber/Implementation_of_Stegnography/assets/136923593/70950259-49d9-453d-b3fa-61b74e4718bc)
 
 ## Project Overview
@@ -73,8 +73,3 @@ For any inquiries, please contact:
 - [Rajeev](https://github.com/rajeev-cyber)
 - [Abhinav Rajpati](https://github.com/Surventurer)
 - [Vibhas Dutta](https://github.com/vibhasdutta)
-
-## Badges
-
-[![Build Status](badge-url)](link-to-build-status)
-[![License](badge-url)](link-to-license)
